@@ -1,4 +1,4 @@
-# tysonportfolio
+# Welcome To Tyson Jordan's technical portfolio!
 
 # Tyson Jordan – Engineering Technical Portfolio
 
