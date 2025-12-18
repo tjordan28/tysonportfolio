@@ -1,8 +1,10 @@
-# Welcome To Tyson Jordan's technical portfolio!
+# Welcome!
+
 
 # Tyson Jordan – Engineering Technical Portfolio
 
-Honors Civil Engineering student at North Carolina A&T State University with experience in structural analysis, construction operations, surveying, CAD/BIM, and engineering leadership. This portfolio highlights academic projects, design competitions, internships, and technical leadership roles.
+Honors sophomore Civil Engineering student at North Carolina A&T State University with experience in structural analysis, construction operations, surveying, CAD/BIM, and engineering leadership. This portfolio highlights academic projects, design competitions, internships, and technical leadership roles. I am passionate about engineering, serving my community, and being active! Whether you're a recruiter, fellow engineer, friend, or lost stranger, I hope you enjoy the ride!
+
 
 ---
 
@@ -90,6 +92,6 @@ Selected as **1 of 4 interns** supporting food safety and warehouse construction
 ---
 
 ## Contact
-- LinkedIn: [Add link]
-- Email: [Add email]
+- LinkedIn: (https://www.linkedin.com/in/tysonwjordan28/)
+- Email: tyson.w.jordan17@gmail.com
 
